@@ -3,4 +3,4 @@ Teriyaki Chicken Recipe
 
 Made by Rishi Venkatesh
 
-Link: https://github.com/Ethyx/PRO-C26
+Link: https://ethyx.github.io/PRO-C26/
